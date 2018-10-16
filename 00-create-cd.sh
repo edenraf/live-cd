@@ -168,7 +168,7 @@ apt-get -y -q install ros-$ROSDISTRO-rosemacs
 
 # hakuto
 apt-get -y -q install ros-$ROSDISTRO-hakuto
-fi
+fi 
 
 
 # install chromium
